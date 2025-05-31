@@ -1,0 +1,11 @@
+{
+    "Cards" : [
+        {
+        "id": 1,    
+        "cardImage": "https://www.mtgpics.com/pics/big/fin/824.jpg",
+        "cardName": "Emblem Sephiroth, One-Winged Angel",
+        "typeCard": "Emblem",
+        "cardText": "Whenever a creature dies, target opponent loses 1 life and you gain 1 life."
+        }
+    ]
+}
