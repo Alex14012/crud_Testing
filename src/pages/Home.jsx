@@ -1,6 +1,6 @@
 import axios from "axios"
 import { useEffect, useState } from "react"
-import Cards from "../Components/cards"
+import Cards from "../Components/Cards"
 import { Link, useNavigate } from "react-router"
 
 function Home() {
