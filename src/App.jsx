@@ -2,11 +2,11 @@ import { useState } from 'react'
 import './App.css'
 import {Routes, Route } from "react-router"
 import Home from "./pages/Home"
-import Create from "./pages/create"
-import Update from "./pages/update"
+import Create from "./pages/Create"
+import Update from "./pages/Update"
+
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>

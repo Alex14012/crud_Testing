@@ -1,0 +1,25 @@
+{
+  "Cards": [
+    {
+      "id": 1,
+      "cardImage": "https://www.mtgpics.com/pics/big/fin/824.jpg",
+      "cardName": "Emblem Sephiroth, One-Winged Angel",
+      "cardType": "Emblem",
+      "cardText": "Whenever a creature dies, target opponent loses 1 life and you gain 1 life."
+    },
+    {
+      "cardImage": "https://www.mtgpics.com/pics/big/fin/007.jpg",
+      "cardName": "Ashe, Princess of Dalmasca",
+      "cardType": "Legendary Creature — Human Rebel Noble",
+      "cardText": "Whenever Ashe attacks, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+      "id": 4
+    },
+    {
+      "cardImage": "https://www.mtgpics.com/pics/big/fin/198.jpg",
+      "cardName": "Rydia's Return",
+      "cardType": "Sorcery",
+      "cardText": "Choose one — • Creatures you control get +3/+3 until end of turn. • Return up to two target permanent cards from your graveyard to your hand.",
+      "id": 5
+    }
+  ]
+}
